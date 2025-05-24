@@ -25,3 +25,4 @@ I have a plan for how to make this tool useful in plan_outline.md.
 </todo>
 
 Feel free to modify this file as you see fit.
+Use the scratchpad.md file to write down your thoughts and manage context and memory (if you need it). Feel free to make any changes you need in general. Make commits as you go.
